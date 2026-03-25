@@ -42,3 +42,6 @@ Specifications
 
 **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+You can access my notion list 
+https://www.notion.so/Data-Warehouse-Project-3244ab1f649f800fa925f82d68f61152?source=copy_link
+

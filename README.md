@@ -4,7 +4,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 Building a modern data warehouse with SQL Server, including ETL processes ,data modeling and analytics.
 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
-<img width="1544" height="912" alt="data_architecture" src="https://github.com/user-attachments/assets/905dd4a4-1004-4751-9cc9-3157591d0f98" />
+<img width="1544" height="912" alt="data_architecture" src="https://github.com/RahulasAryan/Data-Warehouse_-Project/blob/main/docs/High%20levle%20architecture.png" />
 
 
 Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.

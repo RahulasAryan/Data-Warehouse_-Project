@@ -26,7 +26,6 @@ ETL Pipeline Developer
 Data Modeling
 Data Analytics
 
----------------------------------------------------------------------------------------------------------------------------------------
 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
 Objective
